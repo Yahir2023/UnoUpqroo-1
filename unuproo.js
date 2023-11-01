@@ -102,7 +102,6 @@ async function jugar() {
       // Validar si la carta es un comodin
       function cardValidation (card) {
         if (card.type [player].trash.types (card));
-        
       }
       
       // de preferencia con una funcion como la de cardValidation
